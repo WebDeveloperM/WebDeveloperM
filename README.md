@@ -4,6 +4,6 @@
 ### Languages and tools:
 <code>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShE-HhNbjxLXo3zHtRi8O323jrg4AQ_uZFrIjqkBoLFOjLRtkod8vH5_qptgpkjtjPsnk&usqp=CAU" width="50px">
-  <img src="https://www.pngaaa.com/detail/619282" width="50px">
+  <img src="[https://www.pngaaa.com/detail/619282](https://e7.pngegg.com/pngimages/220/595/png-clipart-javascript-logo-product-design-brand-angularjs-dashboard-templates-angle-text.png)" width="50px">
   
 </code>
