@@ -5,8 +5,4 @@
 <code>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShE-HhNbjxLXo3zHtRi8O323jrg4AQ_uZFrIjqkBoLFOjLRtkod8vH5_qptgpkjtjPsnk&usqp=CAU" width="50px">
   </code>
-  <code>
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShE-HhNbjxLXo3zHtRi8O323jrg4AQ_uZFrIjqkBoLFOjLRtkod8vH5_qptgpkjtjPsnk&usqp=CAU](https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png)" width="50px">
 
-  
-</code>
