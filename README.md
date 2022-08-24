@@ -4,6 +4,7 @@
 ### Languages and tools:
 <code>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShE-HhNbjxLXo3zHtRi8O323jrg4AQ_uZFrIjqkBoLFOjLRtkod8vH5_qptgpkjtjPsnk&usqp=CAU" width="50px">
-  <img src="[https://www.pngaaa.com/detail/619282](https://e7.pngegg.com/pngimages/220/595/png-clipart-javascript-logo-product-design-brand-angularjs-dashboard-templates-angle-text.png)" width="50px">
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShE-HhNbjxLXo3zHtRi8O323jrg4AQ_uZFrIjqkBoLFOjLRtkod8vH5_qptgpkjtjPsnk&usqp=CAU](https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png)" width="50px">
+
   
 </code>
