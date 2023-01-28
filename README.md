@@ -1,6 +1,6 @@
 ### Hi. I`m Ma'ruf Shabonov
 <h2>I`m Full Stack developer</h2>
-### Languages and tools:
+<h3>Languages and tools:</h3>
 <code>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShE-HhNbjxLXo3zHtRi8O323jrg4AQ_uZFrIjqkBoLFOjLRtkod8vH5_qptgpkjtjPsnk&usqp=CAU" width="40px"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="40px">
  
